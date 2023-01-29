@@ -30,4 +30,4 @@ the app also will be provided as jar file as an executable file
 the total implementation has written by [Mahmoud Sayed](https://github.com/MahmoudSayedA)
 feel free to use it
 
-** if you hava any comment, I'm gladly happy to contact with me ** [mail](mahmoudsayed1332002@gmail.come)
+**if you hava any comment, I'm gladly happy to contact with me** [mail](mahmoudsayed1332002@gmail.come)
