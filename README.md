@@ -6,7 +6,7 @@ this repo contain desktop application for doctor to manage student degrees in a 
 to run the the app you should open it through eclipse IDE 
 the app also will be provided as jar file as an executable file
 
-### how can use it 
+### who can use it 
 - the doctor who manage student degrees
 
 ### functionality
